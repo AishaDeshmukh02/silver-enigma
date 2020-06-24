@@ -1,0 +1,3 @@
+program taskmgr
+ui.gettext ‴/ui[@name='Task Manager']/ui[@id='TitleBar']‴
+dialog ♥result
