@@ -1,0 +1,3 @@
+selenium.open chrome url facebook.com
+selenium.geturl result ♥tab1
+dialog ♥tab1
