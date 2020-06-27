@@ -1,0 +1,7 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program notepad
+keyboard ‴This is random text‴
+keyboard ⋘ctrl+a⋙⋘ctrl+c⋙⋘right⋙⋘enter⋙⋘ctrl+v⋙
+
+-This command sends keyboard actions to a window.

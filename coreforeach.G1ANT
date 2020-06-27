@@ -1,0 +1,9 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+♥list = one❚two❚three
+foreach ♥element in ♥list
+   dialog ♥element
+end
+
+-The foreach command creates a loop, which repeats the inner block a specified number of times. The loop ends with the end command.
+

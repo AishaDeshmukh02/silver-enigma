@@ -1,0 +1,7 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+directory path ♥environment⟦USERPROFILE⟧\Desktop pattern *.txt result ♥files
+dialog ♥files⟦count⟧
+
+-This command allows to retrieve directory content and assign it to a variable.
+
